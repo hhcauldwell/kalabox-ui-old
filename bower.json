@@ -1,0 +1,14 @@
+{
+  "name": "kalabox-ui",
+  "version": "0.1.0",
+  "license": "N/A",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.21"
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+    "angular": "1.2.21"
+  }
+}
